@@ -9,9 +9,11 @@
       - let sentence = "I am from " + city + ", in the" + country;
 * Lesson 4 Challenge: Javascript in HTML
   - [x] Create a prompt asking for your hometown and alert the hometown. 
-  - [] Then ask for your first name and last name. Alert your full name
+  - [x] Then ask for your first name and last name. Alert your full name
 
-* Lesson 5 Challenge:
+* Lesson 5 Challenge: Javascript If statements
+  - [x] Ask for your age and if you are below 18, alert You cannot apply, if you are 18 or more, alert You can apply to SheCodes
+
 
 * Lesson 6 Challenge:
 
