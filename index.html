@@ -75,6 +75,7 @@
     </button>
   </section>
   <script>
+    // ***LESSON 4 CHALLENGE*** 
     // let hometown = prompt("What is your hometown?");
     // alert("Your hometown is " + hometown);
 
@@ -83,16 +84,33 @@
     // let fullName = firstName + " " + lastName;
     // alert("Your name is " + fullName);
 
-    let age = prompt("How old are you?")
 
-    if (age >= 18) {
-      alert("You can apply!")
+    //***LESSON 5 CHALLENGE
+    // let age = prompt("How old are you?");
+
+    // if (age >= 18) {
+    //   alert("You can apply!");
+    // }
+
+    // if (age < 18) {
+    //   alert("You cannot apply 😢");
+    // }
+
+    //***LESSON 6 CHALLENGE
+
+    let hour = prompt("What is the hour? (24 Hour Time)");
+
+    if (hour < 12) {
+      alert("Good Morning! ☀️");
+    } else {
+      if (hour >= 12 && hour <= 18) {
+        alert("Good Afternoon!");
+    } else {
+      if (hour > 18) {
+      alert("Good Evening!");
     }
-
-    if (age < 18) {
-      alert("You cannot apply 😢")
-    }
-
+  }
+}
   </script>
 
 </body>
