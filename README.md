@@ -12,7 +12,7 @@
   - [x] Then ask for your first name and last name. Alert your full name
 
 * Lesson 5 Challenge: Javascript If statements
-  - [] Ask for your age and if you are below 18, alert You cannot apply, if you are 18 or more, alert You can apply to SheCodes
+  - [x] Ask for your age and if you are below 18, alert You cannot apply, if you are 18 or more, alert You can apply to SheCodes
 
 
 * Lesson 6 Challenge:
