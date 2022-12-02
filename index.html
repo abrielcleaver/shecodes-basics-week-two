@@ -117,16 +117,30 @@
 // }
 
 // *** LESSON 7 CHALLENGE ***
-let country = prompt("What country are you from?");
-if (country === "Brazil" || country === "Portugal") {
-  alert("You speak portuguese");
-} else {
-  if (country === "brazil" || country === "brasil" || country === "portugal" || country === "BRAZIL" || country === "PORTUGAL" || country === "pORTugal") {
-    alert("You speak portuguese");
-  } else {
-    alert("You don't speak portuguese")
+// let country = prompt("What country are you from?");
+// if (country === "Brazil" || country === "Portugal") {
+//   alert("You speak portuguese");
+// } else {
+//   if (country === "brazil" || country === "brasil" || country === "portugal" || country === "BRAZIL" || country === "PORTUGAL" || country === "pORTugal") {
+//     alert("You speak portuguese");
+//   } else {
+//     alert("You don't speak portuguese")
+//   }
+// }
+
+// *** LESSON 8 CHALLENGE *** 
+
+  function canSpeakPortuguese() {
+    let country = prompt("What country are you from?");
+    if (country === "Brazil" || country === "Portugal") {
+      alert("You speak portuguese!");
+    } else {
+      alert("Go learn portuguese!");
+    }
   }
-}
+
+  canSpeakPortuguese();
+
   </script>
 
 </body>

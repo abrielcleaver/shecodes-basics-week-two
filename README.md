@@ -27,6 +27,11 @@
   - [] Alert ‘You don't speak Portuguese’ otherwise
   - [] Bonus point: make it work with brazil, BRAZIL, PORTUGAL, pORTugal etc
 
-* Lesson 8 Challenge:
+* Lesson 8 Challenge: Javascript Function
+  - [x] Create a function canSpeakPortuguese
+  - [x] From inside the function, ask for the user's country
+  - [x] Alert ‘You speak Portuguese’ if from Brazil or Portugal
+  - [x] Alert ‘Go learn Portuguese!’ otherwise
+  - [x] Call the function
 
 * Lesson 9 Challenge:
