@@ -34,4 +34,23 @@
   - [x] Alert ‘Go learn Portuguese!’ otherwise
   - [x] Call the function
 
-* Lesson 9 Challenge:
+* Lesson 9 Challenge: Javascript Selectors
+  - [x]Select the h2 https://www.shecodes.io/
+  - [x] How many students do we have listed on the page? https://shecodes.io/students
+  - Solution submitted:
+  - [x] document.querySelector("h2");
+  - [x] document.querySelectorAll("students");
+    - solution submitted did not return correct result. solution needed was document.querySelectorAll("coders"); and the answer was 500 students
+
+  * Lesson 10 Challenge: Javascript Events
+  - [] After the user clicks on the Apply now button
+  - [] Ask for the person’s first name
+  - [] Ask for the person’s age
+  - [] If 18 or more, change the h1 to  “Hi, {Name}! Welcome to SheCodes !”
+      - [] Otherwise change the h1 to  “Sorry, {Name}! You cannot join SheCodes ”
+
+
+  * Lesson 11 Challenge: Javascript Refactoring
+  - []
+  - []
+  - []
